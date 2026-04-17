@@ -4,11 +4,13 @@ main:
     authors: Yunseo Yang*, <strong>Youngho Yoon*</strong>, and Kuk-Jin Yoon
     conference_short: Preprint
     conference: Preprint / Under Review.
+    image: ./assets/img/teaser_prisplat.png
 
   - title: "ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation"
     authors: <strong>Youngho Yoon</strong>, Wonjune Cho, Hyunho Ha, Sujung Kim, and Kuk-Jin Yoon
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    image: ./assets/img/teaser_expose.png
     notes: To appear
 
   - title: "ReSplat: Degradation-agnostic Feed-forward Gaussian Splatting via Self-guided Residual Diffusion"
@@ -17,23 +19,27 @@ main:
     conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     code: https://github.com/yh-yoon/ReSplat
     page: https://openreview.net/forum?id=461VpgnLsi
+    image: ./assets/img/teaser_resplat.png
     notes: To appear
 
   - title: "Stabilizing Multi-Task Latent Spaces: Recursive Refinement with Coordinators in Partially Labeled Learning"
     authors: Wooseong Jeong*, Jegyeong Cho*, <strong>Youngho Yoon*</strong>, Junho Lee, and Kuk-Jin Yoon
     conference_short: IEEE Access
     conference: IEEE Access, 2026.
+    image: ./assets/img/teaser_stabilizing.png
 
   - title: "Decomposition-driven Grouping for Prompt-based Adverse Weather Removal"
     authors: Yuhwan Jeong*, Yunseo Yang*, <strong>Youngho Yoon*</strong>, and Kuk-Jin Yoon
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    image: ./assets/img/teaser_decomp.png
 
   - title: "Synchronizing Task Behavior: Aligning Multiple Tasks during Test-Time Training"
     authors: Wooseong Jeong*, Jegyeong Cho*, <strong>Youngho Yoon*</strong>, and Kuk-Jin Yoon
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
     pdf: https://arxiv.org/abs/2507.07778
+    image: ./assets/img/teaser_s4t.png
 
   - title: "Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer"
     authors: <strong>Youngho Yoon</strong>, Hyun-Kurl Jang, and Kuk-Jin Yoon
@@ -56,6 +62,7 @@ main:
     conference_short: AAAI
     conference: Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://arxiv.org/abs/2112.06171
+    image: ./assets/img/teaser_pixelwise.png
 
   - title: "SphereSR: 360° Image Super-Resolution with Arbitrary Projection via Continuous Spherical Image Representation"
     authors: <strong>Youngho Yoon</strong>, Inchul Chung, Lin Wang, and Kuk-Jin Yoon
