@@ -28,10 +28,11 @@ main:
     conference: IEEE Access, 2026.
     image: ./assets/img/teaser_stabilizing.png
 
-  - title: "Decomposition-driven Grouping for Prompt-based Adverse Weather Removal"
+  - title: "Robust Adverse Weather Removal via Spectral-based Spatial Grouping"
     authors: Yuhwan Jeong*, Yunseo Yang*, <strong>Youngho Yoon*</strong>, and Kuk-Jin Yoon
     conference_short: ICCV
     conference: International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2507.22498
     image: ./assets/img/teaser_decomp.png
 
   - title: "Synchronizing Task Behavior: Aligning Multiple Tasks during Test-Time Training"
