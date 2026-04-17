@@ -11,9 +11,10 @@ description: Personal homepage of Youngho Yoon, Postdoctoral Researcher at KAIST
 canonical: https://dudgh1732.github.io/
 
 # Links
+google_scholar: https://scholar.google.com/citations?user=kwPE48EAAAAJ&hl=ko&oi=sra
 cv_link: ./assets/files/cv_YounghoYoon.pdf
 github_link: https://github.com/yh-yoon
-linkedin: https://www.linkedin.com/
+linkedin: https://www.linkedin.com/in/youngho-yoon-037413321/
 
 # Images
 avatar: ./assets/img/avatar.png
