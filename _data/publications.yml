@@ -1,5 +1,10 @@
 main:
 
+  - title: "PriSplat: Propagating Reliable Multi-view Information for Distractor-Free 3DGS"
+    authors: Yunseo Yang*, <strong>Youngho Yoon*</strong>, and Kuk-Jin Yoon
+    conference_short: Preprint
+    conference: Preprint / Under Review.
+
   - title: "ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation"
     authors: <strong>Youngho Yoon</strong>, Wonjune Cho, Hyunho Ha, Sujung Kim, and Kuk-Jin Yoon
     conference_short: CVPR
@@ -36,6 +41,7 @@ main:
     conference: The 18th European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/abs/2410.00672
     code: https://github.com/yh-yoon/GMT
+    image: ./assets/img/teaser_gmt.png
 
   - title: "Cross-Guided Optimization of Radiance Fields with Multi-View Image Super-Resolution for High-Resolution Novel View Synthesis"
     authors: <strong>Youngho Yoon</strong>, and Kuk-Jin Yoon
@@ -43,6 +49,7 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/CVPR2023/html/Yoon_Cross-Guided_Optimization_of_Radiance_Fields_With_Multi-View_Image_Super-Resolution_for_CVPR_2023_paper.html
     code: https://github.com/yh-yoon/CROP
+    image: ./assets/img/teaser_crop.png
 
   - title: "Pixel-Wise Warping for Deep Image Stitching"
     authors: Hyeokjun Kweon*, Hyeonseong Kim*, Yoonsu Kang*, <strong>Youngho Yoon*</strong>, Wooseong Jeong, and Kuk-Jin Yoon
@@ -56,18 +63,5 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
     pdf: https://arxiv.org/abs/2112.06536
     code: https://github.com/yh-yoon/SphereSR
+    image: ./assets/img/teaser_spheresr.png
     notes: Oral Presentation
-
-preprints:
-
-  - title: "PriSplat: Propagating Reliable Multi-view Information for Distractor-Free 3DGS"
-    authors: Yunseo Yang*, <strong>Youngho Yoon*</strong>, and Kuk-Jin Yoon
-    conference: Preprint / Under Review.
-
-  - title: "MotionEditGS: Editing Motion and Appearance of 4D Scenes from Monocular Video via Semantically Anchored Gaussians"
-    authors: Daehyun We, <strong>Youngho Yoon</strong>, Jiyong Boo, and Kuk-Jin Yoon
-    conference: Preprint / Under Review.
-
-  - title: "Implicit Surface Reconstruction from Sparse and Noisy Poses with Large Motions"
-    authors: ByeongIn Joung, <strong>Youngho Yoon</strong>, Hyun-Kurl Jang, and Kuk-Jin Yoon
-    conference: Preprint / Under Review.

@@ -30,21 +30,17 @@ Feel free to reach me at **dudgh1732 (at) kaist.ac.kr**.
 
 ## Education
 
-- **Ph.D. in Mechanical Engineering**, KAIST — *Mar. 2020 – Feb. 2026* (GPA 3.94 / 4.3, Advisor: Prof. Kuk-Jin Yoon)
+- **Ph.D. in Mechanical Engineering**, KAIST — *Mar. 2020 – Feb. 2026* (Advisor: Prof. Kuk-Jin Yoon)
 - **Exchange Program**, Technical University of Denmark (DTU) — *Feb. 2019 – May 2019*
-- **B.S. in Mechanical Engineering** (Minor in Electrical Engineering), KAIST — *Mar. 2015 – Feb. 2020* (GPA 3.87 / 4.3)
-- **Gyeongnam Science High School** — *Mar. 2012 – Feb. 2014* (Early graduation)
+- **B.S. in Mechanical Engineering** (Minor in Electrical Engineering), KAIST — *Mar. 2015 – Feb. 2020*
+- **Gyeongnam Science High School** — *Mar. 2012 – Feb. 2014*
 
 ## Experience
 
 - **Postdoctoral Researcher**, KAIST — *Mar. 2026 – Present*
 - **Research Intern**, NAVER LABS — *Jun. 2025 – Nov. 2025*
-- **Lab Students Sub-Leader**, Visual Intelligence Laboratory, KAIST — *Jan. 2023 – Dec. 2023*
-- **Counseling Assistant**, KAIST — *Mar. 2020 – Feb. 2021*
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/preprints.md %}
 
 ## Projects
 
