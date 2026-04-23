@@ -19,9 +19,8 @@ main:
     conference_short: ICLR
     conference: The Fourteenth International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     code: https://github.com/yh-yoon/ReSplat
-    page: https://openreview.net/forum?id=461VpgnLsi
+    openreview: https://openreview.net/forum?id=461VpgnLsi
     image: ./assets/img/teaser_resplat.png
-    notes: To appear
 
   - title: "Stabilizing Multi-Task Latent Spaces: Recursive Refinement with Coordinators in Partially Labeled Learning"
     authors: Wooseong Jeong*, Jegyeong Cho*, <strong>Youngho Yoon*</strong>, Junho Lee, and Kuk-Jin Yoon

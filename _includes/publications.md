@@ -18,7 +18,7 @@
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% elsif link.page %}<a href="{{ link.page }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
+      <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}">{{ link.title }}</a>{% elsif link.page %}<a href="{{ link.page }}">{{ link.title }}</a>{% elsif link.openreview %}<a href="{{ link.openreview }}">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
@@ -31,6 +31,9 @@
       {% endif %}
       {% if link.page %}
       <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
+      {% if link.openreview %}
+      <a href="{{ link.openreview }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">OpenReview</a>
       {% endif %}
       {% if link.bibtex %}
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
