@@ -12,7 +12,6 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: ./assets/files/ExPose_CVPR26.pdf
     image: ./assets/img/teaser_expose.png
-    notes: To appear
 
   - title: "ReSplat: Degradation-agnostic Feed-forward Gaussian Splatting via Self-guided Residual Diffusion"
     authors: <strong>Youngho Yoon</strong>, and Kuk-Jin Yoon
