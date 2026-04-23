@@ -27,6 +27,7 @@ main:
     authors: Wooseong Jeong*, Jegyeong Cho*, <strong>Youngho Yoon*</strong>, Junho Lee, and Kuk-Jin Yoon
     conference_short: IEEE Access
     conference: IEEE Access, 2026.
+    pdf: https://ieeexplore.ieee.org/document/11395970
     image: ./assets/img/teaser_stabilizing.png
 
   - title: "Robust Adverse Weather Removal via Spectral-based Spatial Grouping"
