@@ -10,6 +10,7 @@ main:
     authors: <strong>Youngho Yoon</strong>, Wonjune Cho, Hyunho Ha, Sujung Kim, and Kuk-Jin Yoon
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    pdf: ./assets/files/ExPose_CVPR26.pdf
     image: ./assets/img/teaser_expose.png
     notes: To appear
 
