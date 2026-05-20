@@ -19,6 +19,7 @@ Feel free to reach me at **dudgh1732 (at) kaist.ac.kr**.
 
 ## News
 
+- **[May 2026]** Selected as an **Outstanding Reviewer** (Top 5%) for **CVPR 2026**.
 - **[Jan. 2026]** Paper *ExPose: Reinforcing Video Generation Models for Extreme Pose Estimation* accepted to **CVPR 2026**.
 - **[Jan. 2026]** Paper *ReSplat: Degradation-agnostic Feed-forward Gaussian Splatting via Self-guided Residual Diffusion* accepted to **ICLR 2026**.
 - **[Mar. 2026]** Started as a **Postdoctoral Researcher** at KAIST after completing my Ph.D.
