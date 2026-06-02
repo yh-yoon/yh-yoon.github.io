@@ -11,6 +11,8 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: ./assets/files/ExPose_CVPR26.pdf
+    page: https://yh-yoon.github.io/expose-project-page/
+    code: https://github.com/yh-yoon/ExPose
     image: ./assets/img/teaser_expose.png
 
   - title: "ReSplat: Degradation-agnostic Feed-forward Gaussian Splatting via Self-guided Residual Diffusion"
